@@ -1,4 +1,4 @@
-# Global optimization based on generative nerual networks (GLOnet)
+# Global optimization based on generative neural networks (GLOnet)
 
 ## Requirements
 
